@@ -17,7 +17,7 @@ namespace task1
             S1.EcatMarks = 306;
             S1.matricMarks = 1073;
             S1.FscMarks = 1076;
-            Student S2 = new Student();
+            Student S2 = S1;
             S2.name = "Ali";
             Console.WriteLine(S1.name);
             Console.WriteLine(S2.name);

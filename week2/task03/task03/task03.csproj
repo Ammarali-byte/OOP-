@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{881F5D1C-1189-46A8-BAC4-2830028D3DDA}</ProjectGuid>
+    <ProjectGuid>{AB19E496-78DA-4833-AAEB-20040ECF24D0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SelfAssesmenttask1</RootNamespace>
-    <AssemblyName>SelfAssesmenttask1</AssemblyName>
+    <RootNamespace>task03</RootNamespace>
+    <AssemblyName>task03</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
